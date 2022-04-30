@@ -33,8 +33,6 @@ class _FIrstPageWidgetState extends State<FIrstPageWidget> {
                     borderRadius: BorderRadius.all(Radius.circular(30)),
                   ),
                 ),
-                // onTap: getData,
-                // keyboardType: TextInputType.values,
                 controller: _nameTextController,
               ),
             ),
